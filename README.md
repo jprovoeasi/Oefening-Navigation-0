@@ -10,7 +10,7 @@
   - Gebruik auto layout om deze in het midden bovenaan te positioneren.
   - Verander ook de tekst van de UIButton.
 5. Voeg een nieuwe UIViewController toe aan het storyboard. Maak een segue aan van de UIButton naar de nieuwe UIViewController vanuit het storyboard.
-  - Dit doe je door de UIButton aan te klikken en te slepen terwijl je ⌘ inhoudt.
+  - Dit doe je door de UIButton aan te klikken en te slepen terwijl je `CTRL` inhoudt.
   - Merk op dat je tot nu toe geen enkele code hebt geschreven om de navigatie te realiseren!
 6. Voeg nog een UIButton toe aan de eerste UIViewController. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen.
   - Tip: IBAction.
