@@ -3,8 +3,9 @@
 1. Tips?
 
 ## Opgaves
-Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, etc. Roteer het device bij elke opgave zodat je duidelijk ziet of jouw oplossing werkt.
-
 1. Voeg een UIViewController toe aan het storyboard.
-2. Embed de UIViewController in een UINavigationController. Selecteer de UIViewController, kies *Editor < Embed In < Navigation Controller.*
-2. Een UINavigationController Gebruik enkel *Align*! Voeg 1 element toe aan de view controller. Aligneer dit element in het midden. Wat gebeurt er wanneer je het device roteert?
+2. Embed de UIViewController in een UINavigationController. Selecteer de UIViewController, kies **Editor < Embed In < Navigation Controller.** Merk op hoe de UINavigationBar automatisch word toegevoegd aan de UIViewController.
+3. Vergeet de UINavigationController niet in te stellen als initiële view controller. Selecteer de UINavigationController en vink deze optie aan door gebruikt te maken van de **attribute inspector**.
+4. Voeg een UIButton toe aan de UIViewController. Gebruik auto layout om deze in het midden bovenaan te positioneren.
+5. Voeg een nieuwe UIViewController toe aan het storyboard. Maak een segue aan van de UIButton naar de nieuwe UIViewController. Dit doe je door de UIButton aan te klikken en te slepen terwijl je ⌘ inhoudt. Merk op dat je tot nu toe geen enkele code hebt geschreven om de navigatie te realiseren!
+6. Voeg nog een UIButton toe aan de eerste UIViewController. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen. Tip: IBAction.
