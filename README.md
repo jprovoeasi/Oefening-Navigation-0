@@ -5,7 +5,7 @@
   - Selecteer de UIViewController, kies **Editor < Embed In < Navigation Controller.**
   - Merk op hoe de UINavigationBar automatisch wordt toegevoegd aan de UIViewController.
 3. Vergeet de UINavigationController niet in te stellen als initiële view controller.
-  - Selecteer de UINavigationController en vink deze optie aan door gebruikt te maken van de **attribute inspector**.
+  - Selecteer de UINavigationController en vink deze optie aan door gebruik te maken van de **attribute inspector**.
 4. Voeg een UIButton toe aan de UIViewController.
   - Gebruik auto layout om deze in het midden bovenaan te positioneren.
   - Verander ook de tekst van de UIButton.
