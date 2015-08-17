@@ -8,4 +8,4 @@
 3. Vergeet de UINavigationController niet in te stellen als initiële view controller. Selecteer de UINavigationController en vink deze optie aan door gebruikt te maken van de **attribute inspector**.
 4. Voeg een UIButton toe aan de UIViewController. Gebruik auto layout om deze in het midden bovenaan te positioneren. Verander ook de tekst van de UIButton.
 5. Voeg een nieuwe UIViewController toe aan het storyboard. Maak een segue aan van de UIButton naar de nieuwe UIViewController. Dit doe je door de UIButton aan te klikken en te slepen terwijl je ⌘ inhoudt. Merk op dat je tot nu toe geen enkele code hebt geschreven om de navigatie te realiseren!
-6. Voeg nog een UIButton toe aan de eerste UIViewController. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen. _Tip: IBAction._
+6. Voeg nog een UIButton toe aan de eerste UIViewController. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen. __Tip: IBAction.__
