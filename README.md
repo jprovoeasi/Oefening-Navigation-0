@@ -3,7 +3,7 @@
 1. Voeg een UIViewController toe aan het storyboard.
 2. Embed de UIViewController in een UINavigationController.
   - Selecteer de UIViewController, kies **Editor < Embed In < Navigation Controller.**
-  - Merk op hoe de UINavigationBar automatisch word toegevoegd aan de UIViewController.
+  - Merk op hoe de UINavigationBar automatisch wordt toegevoegd aan de UIViewController.
 3. Vergeet de UINavigationController niet in te stellen als initiële view controller.
   - Selecteer de UINavigationController en vink deze optie aan door gebruikt te maken van de **attribute inspector**.
 4. Voeg een UIButton toe aan de UIViewController.
