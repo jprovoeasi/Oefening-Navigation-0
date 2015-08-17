@@ -18,3 +18,4 @@
 8. Maak een unwind segue om terug te keren.
   - Tip: De unwind methode dient in de destination view controller te staan.
 9. Gebruik de unwind segue om de background color van de destination view controller te veranderen.
+10. Voeg een UIBarButtonItem toe om vanuit code een pop uit te voeren.
