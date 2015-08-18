@@ -12,7 +12,8 @@
 5. Voeg een nieuwe UIViewController toe aan het storyboard. Maak een segue aan van de UIButton naar de nieuwe UIViewController vanuit het storyboard.
   - Dit doe je door de UIButton aan te klikken en te slepen terwijl je `CTRL` inhoudt.
   - Merk op dat je tot nu toe geen enkele code hebt geschreven om de navigatie te realiseren!
-6. Voeg nog een UIButton toe aan de eerste UIViewController. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen.
+  - Wat is de titel van de back button? Waar wordt deze gezet? Verander de titel van de back button.
+6. Voeg nog een UIButton toe. Gebruik nu het principe van **target-action** om de segue vanuit code te volgen naar een nieuwe UIViewController.
   - Tip: IBAction.
 7. Gebruik de segue om de background color van de destination view controller te veranderen.
 8. Maak een unwind segue om terug te keren.
