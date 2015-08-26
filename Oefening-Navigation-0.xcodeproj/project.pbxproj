@@ -14,6 +14,7 @@
 		ABC074921B8258CA00B592D5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABC074901B8258CA00B592D5 /* LaunchScreen.xib */; };
 		ABC0749E1B8258CA00B592D5 /* Oefening_Navigation_0Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = ABC0749D1B8258CA00B592D5 /* Oefening_Navigation_0Tests.m */; };
 		ABC854511B8DF049007084DF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABC854501B8DF049007084DF /* ViewController.m */; };
+		ABC854541B8DFE71007084DF /* PushedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABC854531B8DFE71007084DF /* PushedViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		ABC0749D1B8258CA00B592D5 /* Oefening_Navigation_0Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Oefening_Navigation_0Tests.m; sourceTree = "<group>"; };
 		ABC8544F1B8DF049007084DF /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Classes/ViewController.h; sourceTree = "<group>"; };
 		ABC854501B8DF049007084DF /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Classes/ViewController.m; sourceTree = "<group>"; };
+		ABC854521B8DFE71007084DF /* PushedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PushedViewController.h; path = Classes/PushedViewController.h; sourceTree = "<group>"; };
+		ABC854531B8DFE71007084DF /* PushedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PushedViewController.m; path = Classes/PushedViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				ABC074AA1B82590000B592D5 /* Storyboards */,
 				ABC8544F1B8DF049007084DF /* ViewController.h */,
 				ABC854501B8DF049007084DF /* ViewController.m */,
+				ABC854521B8DFE71007084DF /* PushedViewController.h */,
+				ABC854531B8DFE71007084DF /* PushedViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -252,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABC854511B8DF049007084DF /* ViewController.m in Sources */,
+				ABC854541B8DFE71007084DF /* PushedViewController.m in Sources */,
 				ABC074871B8258CA00B592D5 /* AppDelegate.m in Sources */,
 				ABC074841B8258CA00B592D5 /* main.m in Sources */,
 			);
