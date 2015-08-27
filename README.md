@@ -1,5 +1,7 @@
 # Oefening-Navigation-0
 
+In deze oefening leer je navigeren met behulp van een **UINavigationController**.
+
 ## Tips
 1. Je kan de animaties in de simulator vertraagd afspelen met `⌘+T`.
 
