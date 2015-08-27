@@ -30,3 +30,6 @@
   - De unwind methode heeft 1 parameter van het type `UIStoryboardSegue *`.
   - *Tip: De unwind methode dient in de destination view controller te staan.*
 10. Gebruik de unwind segue om de background color van de source en destination view controller te veranderen.
+
+## Oplossing
+De oplossingen vind je terug onder de branch **oplossing** van deze repository.
